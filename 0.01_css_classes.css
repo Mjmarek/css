@@ -1,0 +1,20 @@
+body {
+	background-color: #70d399;
+}
+
+.css-classes {
+	background-color: lightgrey;
+	border: 10px solid blue;
+}
+
+.silverList {
+	color: purple;
+}
+
+p {
+	color: green;
+}
+
+.list {
+	color: magenta;
+}
