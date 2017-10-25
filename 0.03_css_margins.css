@@ -5,19 +5,40 @@ body {
 #container {
 	background-color: blue;
 	display: inline-block;
-	width: 400px;
-	height: 400px;
+	width: 375px;
+	height: 375px;
 }
 
-#content {
+#content1 {
 	background-color: green;
 	display: inline-block;
-	width: 320px;
-	height: 320px;
-	margin: 40px 25px 15px 30px;
+	width: 150px;
+	height: 150px;
+	margin-left: 25px;
+	margin-top: 25px;
 }
 
+#content2 {
+	background-color: yellow;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin-left: 25px;
+}
 
-#header-text {
-	color: whitesmoke;
+#content3 {
+	background-color: red;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+#content4 {
+	background-color: cyan;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin-left: 25px;
 }
